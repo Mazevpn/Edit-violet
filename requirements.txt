@@ -1,0 +1,19 @@
+# Telethon untuk API Telegram
+Telethon
+
+# Database
+mysql-connector-python
+
+# HTTP dan Async
+requests
+aiohttp
+
+# QR Code Generation
+qrcode
+pillow
+
+# Utility
+python-dotenv
+
+#time jakarta
+pytz
